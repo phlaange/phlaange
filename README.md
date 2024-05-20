@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @phlaange
+- 👋 Hi, I’m Sean AKA @phlaange
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python, PostgreSQL, VS Code and Docker/containers
+- 🌱 I’m currently learning Python, PyCharm, Power Query M, PostgreSQL, VS Code and Docker/containers
 - 📫 How to reach me: mmm, no
 
 <!---
